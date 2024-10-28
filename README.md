@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 <!--
 **BMo2026/BMo2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
